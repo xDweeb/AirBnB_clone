@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the AirBnB clone project! This project is a simplified version of the popular Airbnb web application. It is developed using Python and aims to provide a command-line interface to manage various aspects of the application such as creating, updating, and deleting objects. This project serves as the foundation for building a fully functional web application.
+Welcome to the AirBnB clone project by [@xdweb](https://www.linkedin.com/in/xdweb) ! This project is a simplified version of the popular Airbnb web application. It is developed using Python and aims to provide a command-line interface to manage various aspects of the application such as creating, updating, and deleting objects. This project serves as the foundation for building a fully functional web application.
 
 ## Command Interpreter
 
